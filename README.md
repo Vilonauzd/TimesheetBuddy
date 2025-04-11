@@ -25,7 +25,9 @@ Timesheet Buddy is a PowerShell-based Windows Forms application that helps you c
    - Click the "📄 Capture Timesheet" button to generate and save the timesheet to a file.
    - Alternatively, click the "📋 Copy to Clipboard" button to copy the timesheet directly to your clipboard.
 4. **Close the Application**: Click the "❌ Close" button to exit the application.
+   
 ![image](https://github.com/user-attachments/assets/1525d343-1165-4e98-9f92-b42c8c20ab55)
+
 ## Visual Representation of App Logic
 
 Below is a simple flowchart representing the logic of the Timesheet Buddy application:
