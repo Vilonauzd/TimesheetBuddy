@@ -57,7 +57,8 @@ graph TD;
 
 ## Screenshots
 
-![Timesheet Buddy Screenshot](https://example.com/timesheet-buddy-screenshot.png)
+![image](https://github.com/user-attachments/assets/1525d343-1165-4e98-9f92-b42c8c20ab55)
+
 
 ## Contributing
 Feel free to contribute to this project by opening issues or pull requests. Your feedback and improvements are welcome!
